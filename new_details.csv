@@ -1,0 +1,6 @@
+warden_id,prisoner_id,block_id,cell
+13,19,NULL,1
+12,20,NULL,2
+13,21,NULL,3
+12,22,B,4
+12,23,B,5
